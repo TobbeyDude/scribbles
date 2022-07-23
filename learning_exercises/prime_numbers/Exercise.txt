@@ -1,0 +1,9 @@
+Create a Python script to calculate prime numbers.
+
+Exercise 1: calculate the first 10 prime numbers (excluding 0 and 1)
+
+Exercise 2: calculate the prime number closest to 200.
+
+Exercise 3: calculate the first 5 digit prime number.
+
+Exercise 4: calculate the first n prime numbers

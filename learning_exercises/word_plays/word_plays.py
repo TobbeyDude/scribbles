@@ -1,0 +1,13 @@
+"""Create a Python script to manipulate words and sentences.
+
+Exercise 1: create a script witch takes in words and fills in predefined sentences with these words
+            e.g.: given words: "Dog", "quickly" "Ball"; predefined sentence: "The _ runs _ at the _."
+
+Exercise 2: take a word or sentence and return it backwards
+
+Exercise 3: take a word or sentence and encrypt it with a Caesar encryption
+
+Exercise 4: calculate valid anagrams from given words
+
+Exercise 5: extend exercise 4 so that not only words can be given but also full sentences
+"""
